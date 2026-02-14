@@ -1,0 +1,2 @@
+-- This file can be used to seed your database with initial data
+-- You can run it using the Supabase CLI: supabase db push
